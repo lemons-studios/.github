@@ -17,4 +17,4 @@ Lemon Studios
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   </a>
 </p>
-<p align="center"><i>A game for a school project created by at least 2 grade 10 students</i></p>
+<p align="center"><i>Self-Proclaimed Indie game studio created by @Shob3r. Currently developing Mission: Monkey</i></p>
