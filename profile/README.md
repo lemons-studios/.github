@@ -13,8 +13,5 @@ Lemon Studios
   <a href="https://unity.com">
     <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
   </a>
-  <a href="https://windows.com">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  </a>
 </p>
 <p align="center"><i>Self-Proclaimed Indie game studio created by @Shob3r. Currently developing Mission: Monkey</i></p>
