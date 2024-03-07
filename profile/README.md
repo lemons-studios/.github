@@ -1,6 +1,6 @@
 <h1 align="center">
 <sub>
-<img src="https://media.discordapp.net/attachments/888136140564095007/1121864107612700778/213265967-49dfaac0-d48a-42ab-96cd-1eb181f8d1d8.png?width=468&height=468" height=144>
+<img src="https://cdn.lemon-studios.ca/resources/logos/GraphicOnly-Dark.png" height=144>
 </sub>
 <br>
 Lemon Studios
