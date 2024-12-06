@@ -14,4 +14,4 @@ Lemon Studios
     <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
   </a>
 </p>
-<p align="center">An indie game studio created by @Shob3r. Currently developing Mission: Monkey</p>
+<p align="center">Idependent group of people that make cool things. Created by @Shob3r</p>
