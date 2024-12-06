@@ -15,4 +15,3 @@ Lemon Studios
   </a>
 </p>
 <p align="center">An indie game studio created by @Shob3r. Currently developing Mission: Monkey</p>
-<p align="center"><i>for now, all projects will be open-source</i></p>
